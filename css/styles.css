@@ -1,0 +1,14 @@
+ol, ul, li{
+	list-style: none;
+}
+
+h1 {
+color: blue;
+}
+
+.text {
+padding: 10px;
+font-size: 24px;
+color: blue;
+font-weight:bold;
+}
